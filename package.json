@@ -1,5 +1,5 @@
 {
-  "name": "smpl",
+  "name": "smpl-parse",
   "version": "0.0.1",
   "description": "Simple Markup Procedure Language",
   "repository": "git@github.com:horner/smpl.git",
