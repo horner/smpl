@@ -3,15 +3,7 @@
 Parses Simple Markup Procedure Language
 
 ## Simple Markup Procedure Language
-A human friendly syntax designed to be easily read and interpreted by both
-computers and humans. Built from the principles of YAML and Markdown but
-extended to support concepts needed to document procedures (steps, timing,
-and looping).  The initial design as no support for conditionals or branching,
-instead focusing on linear procedures.  Examples of procedures include: a
-workout, simple surgical procedure, or instructions for how to use a computer
-program.  The goal of SMPL to enable non-technical procedure designer to
-communicate their wisdom about a procedure and allow a computer to automate
-or assist a performer with reminders and collect performance information.
+A human friendly syntax designed to be easily read and interpreted by both computers and humans. Built from the principles of YAML and Markdown but extended to support concepts needed to document procedures (steps, timing,and looping). The initial design has no support for conditionals or branching, instead focusing on linear procedures. Examples of procedures include: a workout, simple surgical procedure, or instructions for how to use a computer program. The goal of SMPL to enable non-technical procedure designer to communicate their wisdom about a procedure and allow a computer to automate or assist a performer with reminders and collect performance information.
 
 ### Simple examples
 
