@@ -1,6 +1,6 @@
 import { ICommand } from './interfaces';
 
-export const smplParse = (s: string): unknown => {
+export const smplParse = (s: string): ICommand[] => {
   if (!s) return [];
 
   const script = s.replace(/\t/g, '  '); // re = RegExp(' {' + 4 + '}','g');
